@@ -10,15 +10,25 @@
     <img width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/igicon.png" alt ="ig icon image" >  
   </a>
 </p>
-<!--Uhmm, In the first look, maybe you want to my overall Github information.>
 
-<!--<img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</br>
 
-That is a little bad. Skip that, I want to introduce you to some projects I made.
+<div>
+  <p>In the first look, maybe you want to my overall Github information.</p>  
+  <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <p>
+    That is a little bad. Skip that, I want to introduce you to some projects I made.
 Below is *Find Self Back*, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.
+  </p>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack)](https://github.com/Julylun/FindSelfBack)
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack)](https://github.com/Julylun/FindSelfBack) 
--->
+
+
+
+
+
+
 
 
 <!--

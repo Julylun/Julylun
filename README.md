@@ -14,11 +14,12 @@
 </br>
 
 <div>
-  </br>
-  </br>
+  
   </br>
   <p>In the first look, maybe you want to my overall Github information.</p>  
   <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  </br>
+  </br>
   <p>That is a little bad. Skip that, I want to introduce you to some projects I made.
 Below is <a href = "https://github.com/Julylun/FindSelfBack"><b>Find Self Back</b></a>, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.</p>
   <a href = "https://github.com/Julylun/FindSelfBack"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack"></a>

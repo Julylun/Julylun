@@ -1,6 +1,12 @@
 ## Hi, JulyLun here! I'm a newbie coding student. 🌸
 Uhmm, In the first look, maybe you want to my overall Github information.
+
 <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+That is a little bad, right? Skip that, I want to introduce you some projects I made.
+
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=differ)](https://github.com/Julylun/ZenGaku)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=simple-sqlite)](https://github.com/Julylun/FindSelfBack)
 
 
 <!--

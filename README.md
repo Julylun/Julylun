@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img width="20vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/fbicon.png" alt ="fb icon image" >
+  <img width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/fbicon.png" alt ="fb icon image" >
 <!--Uhmm, In the first look, maybe you want to my overall Github information.>
 
 <!--<img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

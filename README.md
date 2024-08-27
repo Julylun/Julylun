@@ -1,5 +1,5 @@
 <div align="center">
-  <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/titleAnimation.gif" alt ="animation"></a>
+  <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/waifu.png" alt ="July's Banner"></a>
 </div>
 Uhmm, In the first look, maybe you want to my overall Github information.
 

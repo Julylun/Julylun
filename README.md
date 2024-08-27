@@ -23,6 +23,7 @@
     <li>📖 Reading book</li>
     <li>📸 Camera</li>
     <li>🎧 Listening to music</li>
+    <li>🖌️ Sketching </li>
     <li>🌸 And.. Maybe you if you're my crush!</li>
   </ul>
   <p>In the first look, maybe you want to my overall Github information.</p>  

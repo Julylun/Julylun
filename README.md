@@ -14,7 +14,7 @@
 </br>  
 </br>
 
-<p align = "center">---------🌸🌸🌸---🌸🌸🌸---🌸🌸🌸-> PREFACE <-🌸🌸🌸---🌸🌸🌸---🌸🌸🌸---------</p>
+<p align = "center">---------🌸🌸🌸---🌸🌸🌸---🌸🌸🌸-| PREFACE |-🌸🌸🌸---🌸🌸🌸---🌸🌸🌸---------</p>
   
 ‣ Hi there! I am ***Hoang Luan***, you can call me ***Julylun*** and I am a coding student at The University of Danang, Vietnam-Korea University of Information and Communication Technology.
 

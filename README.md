@@ -16,9 +16,8 @@
 <div>
   
   </br>
-  <h3>Hi there! I am <b>Hoang Luan</b>, you can call me <b>Julylun</b> and I am a coding student at Vietnam-Korea University Of Information Technology And Communication.<h3>
-  </br>
-  <p>I like</p>
+  <h3>‣ Hi there! I am <b>Hoang Luan</b>, you can call me <b>Julylun</b> and I am a coding student at Vietnam-Korea University Of Information Technology And Communication.<h3>
+  <p>‣ I like:</p>
   <ul>
     <li>💻 Coding</li>
     <li>📖 Reading book</li>

@@ -5,8 +5,8 @@ Uhmm, In the first look, maybe you want to my overall Github information.
 
 That is a little bad, right? Skip that, I want to introduce you some projects I made.
 
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=differ)](https://github.com/Julylun/ZenGaku)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=simple-sqlite)](https://github.com/Julylun/FindSelfBack)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=ZenGaku)](https://github.com/Julylun/ZenGaku)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack)](https://github.com/Julylun/FindSelfBack)
 
 
 <!--

@@ -20,7 +20,9 @@
     That is a little bad. Skip that, I want to introduce you to some projects I made.
 Below is *Find Self Back*, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.
   </p>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack)](https://github.com/Julylun/FindSelfBack)
+  <a href = "https://github.com/Julylun/FindSelfBack">
+    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack">  
+  </a>
 </div>
 
 

@@ -3,8 +3,7 @@ I'm trying to create md file used to introduce my Github profile.
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Julylun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F05A7E&icon_color=FFBE98&text_color=EEEDEB&bg_color=151515" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Julylun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F05A7E&icon_color=FFBE98&text_color=EEEDEB&bg_color=151515" alt="my Github Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **Julylun/JulyLun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

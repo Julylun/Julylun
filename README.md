@@ -1,4 +1,6 @@
-## Hi, JulyLun here! I'm a newbie coding student. 🌸
+<div align="center">
+  <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/titleAnimation.gif" alt ="animation"></a>
+</div>
 Uhmm, In the first look, maybe you want to my overall Github information.
 
 <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

@@ -17,7 +17,7 @@
   <p>In the first look, maybe you want to my overall Github information.</p>  
   <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <p>That is a little bad. Skip that, I want to introduce you to some projects I made.
-Below is <b>Find Self Back*</b>, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.</p>
+Below is <b href = "https://github.com/Julylun/FindSelfBack">Find Self Back</b>, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.</p>
   <a href = "https://github.com/Julylun/FindSelfBack"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack"></a>
 </div>
 

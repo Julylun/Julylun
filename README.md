@@ -1,4 +1,6 @@
+
 <div align="center">
+  <img width = "100%" src = "https://raw.githubusercontent.com/Julylun/JulyLun/main/top.png" alt = "top">
   <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/waifu.png" alt ="July's Banner"></a>
 </div>
 

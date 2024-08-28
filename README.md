@@ -7,7 +7,7 @@
     <img width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/fbicon.png" alt ="fb icon image" >  
   </a>
   <a href = "https://www.instagram.com/julylun.cat/">
-    <img src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/igicon.png" alt ="ig icon image" >  
+    <img width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/igicon.png" alt ="ig icon image" >  
   </a>
 </p>
 

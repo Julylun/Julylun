@@ -36,7 +36,7 @@
       <img width = "100%" height ="50vw"src = "https://github.com/Julylun/JulyLun/blob/main/split.png" alt = "top">
       <p>In the first look, maybe you want to my overall Github information.</p>  
       <div align = "center">
-        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>  
+        <img width="100%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>  
       </div>
   </div>
   </br>

@@ -22,7 +22,7 @@
 <div>
   <p>‣ I like:</p>
   <div>
-    <div width = "40%">
+    <div>
         <ul>
           <li>💻 Coding</li>
           <li>📖 Reading book</li>
@@ -34,7 +34,7 @@
       </div>
       <div>
         <p>In the first look, maybe you want to my overall Github information.</p>  
-        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" align-self = "center"/>  
       </div>
   </div>
   </br>

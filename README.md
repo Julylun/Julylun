@@ -22,7 +22,7 @@
 <div>
   <p>‣ I like:</p>
   <div>
-    <div style = "font-size: 1vw;">
+    <div width = "40%">
         <ul>
           <li>💻 Coding</li>
           <li>📖 Reading book</li>

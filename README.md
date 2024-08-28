@@ -30,8 +30,8 @@
     <li>🌸 And.. Maybe you if you're my crush!</li>
   </ul>
   <p>In the first look, maybe you want to my overall Github information.</p>  
-  <img src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <img src="https://raw.githubusercontent.com/Julylun/JulyLun/main/gif/1.gif" alt = "kotori_1">
+  <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img width="20%"src="https://raw.githubusercontent.com/Julylun/JulyLun/main/gif/1.gif" alt = "kotori_1">
   </br>
   </br>
   <p>That is a litle bad. Skip that, I want to introduce you to some projects I made.

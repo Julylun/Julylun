@@ -32,9 +32,9 @@
           <li>🌸 And.. Maybe you if you're my crush!</li>
         </ul>
       </div>
-      <div>
-        <p>In the first look, maybe you want to my overall Github information.</p>  
-        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" align-self = "center"/>  
+      <p>In the first look, maybe you want to my overall Github information.</p>  
+      <div align = "center">
+        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>  
       </div>
   </div>
   </br>

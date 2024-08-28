@@ -1,7 +1,6 @@
-
 <div align="center">
-  <img width = "100%" height ="50vw"src = "https://raw.githubusercontent.com/Julylun/JulyLun/main/top.png" alt = "top">
-  <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/waifu.png" alt ="July's Banner"></a>
+  <a href = "https://facebook.com/sieunhan.anhhung.gaodo"><img width = "100%" height ="50vw"src = "https://raw.githubusercontent.com/Julylun/JulyLun/main/top.png" alt = "top"></a>
+  <a href = "https://facebook.com/sieunhan.anhhung.gaodo"><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/waifu.png" alt ="July's Banner"></a>
 </div>
 
 <p align="center">

@@ -1,15 +1,13 @@
 <div align="center">
   <a><img src ="https://raw.githubusercontent.com/Julylun/JulyLun/main/waifu.png" alt ="July's Banner"></a>
 </div>
-<style>
-  .social-icon-image:hover {width = 60vw;}
-</style>
+
 <p align="center">
   <a href = "https://www.facebook.com/Sieunhan.anhhung.gaodo/">
-    <img class = "social-icon-image" width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/fbicon.png" alt ="fb icon image" >  
+    <img width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/fbicon.png" alt ="fb icon image" >  
   </a>
   <a href = "https://www.instagram.com/julylun.cat/">
-    <img class = "social-icon-image" width="50vw" src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/igicon.png" alt ="ig icon image" >  
+    <img src="https://raw.githubusercontent.com/Julylun/JulyLun/main/icon/igicon.png" alt ="ig icon image" >  
   </a>
 </p>
 

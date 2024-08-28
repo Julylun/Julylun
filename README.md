@@ -21,17 +21,20 @@
 <p align = "center">---------🌸🌸🌸---🌸🌸🌸---🌸🌸🌸-x-x-x-x-x-x-🌸🌸🌸---🌸🌸🌸---🌸🌸🌸---------</p>
 <div>
   <p>‣ I like:</p>
-  <ul>
-    <li>💻 Coding</li>
-    <li>📖 Reading book</li>
-    <li>📸 Camera</li>
-    <li>🎧 Listening to music</li>
-    <li>🖌️ Sketching </li>
-    <li>🌸 And.. Maybe you if you're my crush!</li>
-  </ul>
-  <p>In the first look, maybe you want to my overall Github information.</p>  
-  <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  <img width="30%"src="https://raw.githubusercontent.com/Julylun/JulyLun/main/gif/2.webp" alt = "kotori_1">
+  <div>
+      <ul>
+        <li>💻 Coding</li>
+        <li>📖 Reading book</li>
+        <li>📸 Camera</li>
+        <li>🎧 Listening to music</li>
+        <li>🖌️ Sketching </li>
+        <li>🌸 And.. Maybe you if you're my crush!</li>
+      </ul>
+      <div>
+        <p>In the first look, maybe you want to my overall Github information.</p>  
+        <img width="70%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+      </div>
+  </div>
   </br>
   </br>
   <p>That is a litle bad. Skip that, I want to introduce you to some projects I made.

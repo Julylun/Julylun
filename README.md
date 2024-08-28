@@ -21,7 +21,7 @@
 <p align = "center">---------🌸🌸🌸---🌸🌸🌸---🌸🌸🌸-x-x-x-x-x-x-🌸🌸🌸---🌸🌸🌸---🌸🌸🌸---------</p>
 <div>
   <p>‣ I like:</p>
-  <div>
+  <div align = "center">
       <ul>
         <li>💻 Coding</li>
         <li>📖 Reading book</li>

@@ -22,7 +22,7 @@
 <div>
   <p>‣ I like:</p>
   <div>
-    <div>
+    <div style = "font-size: 1vư;">
         <ul>
           <li>💻 Coding</li>
           <li>📖 Reading book</li>

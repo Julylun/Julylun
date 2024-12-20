@@ -35,15 +35,11 @@
       </div>
       <img width = "100%" height ="50vw"src = "https://github.com/Julylun/JulyLun/blob/main/split.png" alt = "top">
       <p>In the first look, maybe you want to my overall Github information.</p>  
-      <div align = "center">
-        <img width="100%" src="https://myreadme.vercel.app/api/embed/Julylun?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>  
-      </div>
   </div>
   </br>
   </br>
   <p>That is a litle bad. Skip that, I want to introduce you to some projects I made.
 Below is <a href = "https://github.com/Julylun/FindSelfBack"><b>Find Self Back</b></a>, a game I made using Java language and the Java Swing graphic library. This hasn't been finished yet and looks like being dropped. I hope I will continue this in the future.</p>
-  <a href = "https://github.com/Julylun/FindSelfBack"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=Julylun&repo=FindSelfBack"></a>
 </div>
 
 
